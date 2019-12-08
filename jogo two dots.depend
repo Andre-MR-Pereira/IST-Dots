@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1522322530 source:/home/faculdade/Documents/Projeto intermedio/jogo two dots/main.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
